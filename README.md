@@ -7,6 +7,9 @@ Calculator Simple Language Interpreter - a small python interpreter that do math
 CSL (Calculator Simple Language) is a simple language that perform mathematical calculations `example : 7^6` returns 7 to the power of 6. It has some small operations like `log(x) and rad(x)`
 
 ## Downloading & Setting up CSL interpreter
+install the rply module using the command line:
+`python -m pip install rply`
+
 To use the CSL interpreter download the production file which contains the python file and the windows interpreter ***"That runs CSL on windows on command line"*** 
 
 Add the directory of the interpreter to  `%PATH%` 
