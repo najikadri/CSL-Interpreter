@@ -12,7 +12,10 @@ install the rply module using the command line:
 
 To use the CSL interpreter download the production file which contains the python file and the windows interpreter ***"That runs CSL on windows on command line"*** 
 
-Add the directory of the interpreter to  `%PATH%` 
+Add the directory of the interpreter to  `%PATH%` and make sure that the directory contains the word **"CSL"** or **"csl"** in it.
+```python
+example: "C:\Users\Mike\Documents\CSL interpreter"
+```
 
 ## Using CSL interpreter
 Now you can use the CSL interpreter using the following commands:
